@@ -1,0 +1,41 @@
+.advantage {
+	padding-top: 58px;
+	padding-bottom: 77px;
+	outline-style: 77px;
+	background-color: #f3f0e7;
+	text-align: center;
+	h2 {
+		font-family: "PF Agora Sans Pro - X Thin";
+		font-size: 60px;
+		font-weight: 400;
+		font-variant: small-caps;
+		letter-spacing: 1.32px;
+	}
+	.wrapper {
+		margin: 0 auto;
+		width: 80%;
+		display: flex;
+		justify-content: space-around;
+		.advantage-item {
+			margin-bottom: 85px;
+			width: 21%;
+			img {
+				width: 95%;
+			}
+			h3 {
+				font-size: 24px;
+				font-weight: 300;
+			}
+			p {
+				font-size: 16px;
+				font-weight: 300;
+			}
+		}
+	}
+	.box-botton {
+		.button-o {
+			color: #fff;
+			background-color: #e11a27;
+		}
+	}
+}
